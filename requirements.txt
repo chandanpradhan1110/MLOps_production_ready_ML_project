@@ -6,6 +6,7 @@ plotly
 seaborn
 scipy
 scikit-learn
+imbalanced-learn
 imblearn
 xgboost
 catboost
@@ -22,4 +23,6 @@ fastapi
 uvicorn
 jinja2
 python-multipart
+python-dotenv
+evidently
 -e . 
